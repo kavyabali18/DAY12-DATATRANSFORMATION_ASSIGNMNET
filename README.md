@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates essential data preprocessing, transformation, and feature engineering techniques commonly used in machine learning workflows. The objective is to transform raw data into a structured and meaningful format that improves data quality and prepares it for analysis and predictive modeling.
+This assignment demonstrates essential data preprocessing, transformation, and feature engineering techniques commonly used in machine learning workflows. The objective is to transform raw data into a structured and meaningful format that improves data quality and prepares it for analysis and predictive modeling.
 
 ## Features Implemented
 
